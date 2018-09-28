@@ -1,6 +1,6 @@
 MachineLearning
 ====================
-
+copy链接  https://github.com/wepe/MachineLearning/tree/master/KMeans
 
 
 一些常见的机器学习算法的实现代码，本人学习过程中做的总结，资历尚浅，如有错误请不吝指出。
